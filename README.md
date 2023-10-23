@@ -1,7 +1,10 @@
 # vue-admin-template-liyangit
 
 
-> 这是一个极简的 vue admin 管理后台。基于 [vue-admin-template](),只是修改了样式，并没有更改源任何代码逻辑。
+> 这是一个极简的 vue admin 管理后台。基于 [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template),只是以下修改，并没有更改源任何代码逻辑。
+
+* 登录、左侧菜单栏样式修改
+* PWA应用支持
 
 
 [在线预览](https://liyang-it.github.io/vue-admin-template-liyangit/#/login?redirect=%2Fdashboard)
